@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "gonzalo",
+    "clave": "123",
+    "mail": "ggg@",
+    "id": 1948,
+    "fecha": "15/09/22"
+  },
+  {
+    "nombre": "nicolas",
+    "clave": "456",
+    "mail": "nnn@",
+    "id": 9896,
+    "fecha": "15/09/22"
+  },
+  {
+    "nombre": "daniel",
+    "clave": "789",
+    "mail": "ddd@",
+    "id": 7683,
+    "fecha": "15/09/22"
+  },
+  {
+    "nombre": "priscila",
+    "clave": "479",
+    "mail": "ppp@",
+    "id": 4697,
+    "fecha": "15/09/22"
+  },
+  {
+    "nombre": "Graciela",
+    "clave": "1237989",
+    "mail": "ggg@",
+    "id": 1824,
+    "fecha": "16/09/22"
+  }
+]
